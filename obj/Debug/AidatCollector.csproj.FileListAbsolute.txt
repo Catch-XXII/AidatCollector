@@ -1,0 +1,13 @@
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\bin\Debug\AidatCollector.exe.config
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\bin\Debug\AidatCollector.exe
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\bin\Debug\AidatCollector.pdb
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.Expense.resources
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.Income.resources
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.Login.resources
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.Main.resources
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.Properties.Resources.resources
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.csproj.GenerateResource.Cache
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.csproj.CoreCompileInputs.cache
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.exe
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.pdb
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\AidatCollector\obj\Debug\AidatCollector.csprojResolveAssemblyReference.cache
