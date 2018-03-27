@@ -1,4 +1,4 @@
-﻿using AidatCollector.Sınıflar;
+using AidatCollector.Sınıflar;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -101,14 +101,14 @@ namespace AidatCollector
             foreach (string satir in satirlar)
             {
                 string[] bolunmus = satir.Split(',');
-                string s1 = bolunmus[0];
-                string s2 = bolunmus[1];
-                string s3 = bolunmus[2];
-                string s4 = bolunmus[3];
-                listBox5.Items.Add(s1);
-                listBox6.Items.Add(s2);
-                listBox7.Items.Add(s3);
-                listBox8.Items.Add(s4);
+                string s0 = bolunmus[0];
+                string s1 = bolunmus[1];
+                string s2 = bolunmus[2];
+                string s3 = bolunmus[3];
+                listBox5.Items.Add(s0);
+                listBox6.Items.Add(s1);
+                listBox7.Items.Add(s2);
+                listBox8.Items.Add(s3);
 
             }
         }
