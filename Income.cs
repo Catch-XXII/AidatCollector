@@ -39,6 +39,13 @@ namespace AidatCollector
                 MessageBox.Show("Zorunlu alanları doldurun");
                 return;
             }
+            
+            int parsedValue;
+            if (!int.TryParse(textBox3.Text, out parsedValue))
+            {
+                MessageBox.Show("Daire numarası alanı sadece numaralardan oluşabilir lütfen kontrol ediniz.");
+                return;
+            }
 
             UserIncome i1 = new UserIncome()
             {
