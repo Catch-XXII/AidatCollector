@@ -1,4 +1,4 @@
-﻿using AidatCollector.Sınıflar;
+using AidatCollector.Sınıflar;
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -39,11 +39,10 @@ namespace AidatCollector
                 MessageBox.Show("Zorunlu alanları doldurun");
                 return;
             }
-            
-            int parsedValue;
-            if (!int.TryParse(textBox3.Text, out parsedValue))
+            int parsedValue1;
+            if (!int.TryParse(textBox3.Text, out parsedValue1))
             {
-                MessageBox.Show("Daire numarası alanı sadece numaralardan oluşabilir lütfen kontrol ediniz.");
+                MessageBox.Show("Daire numarası alanı sadece numaralardan oluşabilir. Lütfen kontrol ediniz.");
                 return;
             }
 
@@ -99,14 +98,14 @@ namespace AidatCollector
             foreach (string satir in satirlar)
             {
                 string[] bolunmus = satir.Split(',');
-                string s1 = bolunmus[0];
-                string s2 = bolunmus[1];
-                string s3 = bolunmus[2];
-                string s4 = bolunmus[3];
-                listBox1.Items.Add(s1);
-                listBox2.Items.Add(s2);
-                listBox3.Items.Add(s3);
-                listBox4.Items.Add(s4);
+                string s0 = bolunmus[0];
+                string s1 = bolunmus[1];
+                string s2 = bolunmus[2];
+                string s3 = bolunmus[3];
+                listBox1.Items.Add(s0);
+                listBox2.Items.Add(s1);
+                listBox3.Items.Add(s2);
+                listBox4.Items.Add(s3);
             }
         }
 
